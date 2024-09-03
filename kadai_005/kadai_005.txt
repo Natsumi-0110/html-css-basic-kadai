@@ -1,0 +1,6 @@
+kadai_005
+├── html
+│     └──file:///Users/higashinatsumi/Desktop/kadai_005/kadai_005
+└── images
+      └── https://drive.google.com/file/d/1XFpKqfZXN_qGuqrLhdysZdszqfxMMLpQ/view?usp=sharing
+
